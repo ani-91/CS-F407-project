@@ -1,1 +1,1 @@
-# CS-F407-project
+# (CS-F407) AI-project
